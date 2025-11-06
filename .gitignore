@@ -1,0 +1,11 @@
+# Ignore Python cache & venv
+__pycache__/
+venv/
+*.pyc
+*.pyo
+
+# Streamlit local files
+.streamlit/
+
+# macOS system files
+.DS_Store
